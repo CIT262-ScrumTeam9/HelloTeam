@@ -1,0 +1,15 @@
+{
+  "name": "w04HelloTeam",
+  "version": "1.0.0",
+  "description": "W04 Scrum Team: Write a NodeJS Arrays hello team program",
+  "main": "index.js",
+  "scripts": {
+    "helloTeam":"node helloteam.js"
+  },
+  "author": "Tristin Parker",
+  "license": "ISC",
+  "dependencies": {
+    "@expo/ngrok": "^4.1.1",
+    "expo-cli": "^6.3.10"
+  }
+}
