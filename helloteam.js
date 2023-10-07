@@ -1,4 +1,4 @@
-const team = ["Tristin", "Ernest","Pius","Allison"];
+const team = ["Tristin", "Ernest","Pius","Allison", "Monigan"];
 
 
 team.forEach(name => {
